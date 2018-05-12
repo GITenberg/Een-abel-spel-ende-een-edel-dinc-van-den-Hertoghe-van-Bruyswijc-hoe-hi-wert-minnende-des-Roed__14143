@@ -1,0 +1,29 @@
+_repo: Een-abel-spel-ende-een-edel-dinc-van-den-Hertoghe-van-Bruyswijc-hoe-hi-wert-minnende-des-Roed__14143
+_version: 0.1.0
+alternative_title: Gloriant
+covers:
+- cover_type: archival
+  image_path: 14143-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Spitz, R. J.
+    alias: Spitz, Raphael Jesaija
+    birthdate: 1889
+    deathdate: 1954
+    gutenberg_agent_id: '5384'
+    url: http://www.gutenberg.org/2009/agents/5384
+description: ''
+gutenberg_issued: '2004-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14143'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Drama'
+- !lcc 'PT'
+title: Een abel spel ende een edel dinc van den Hertoghe van Bruyswijc, hoe hi wert
+  minnende des Roedelioens dochter van Abelant (Gloriant)
+url: http://www.gutenberg.org/ebooks/14143
