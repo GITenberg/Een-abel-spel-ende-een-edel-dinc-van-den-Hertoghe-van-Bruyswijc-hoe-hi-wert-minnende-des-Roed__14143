@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '5384'
     url: http://www.gutenberg.org/2009/agents/5384
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14143#Een-abel-spel-ende-een-edel-dinc-van-den-Hertoghe-van-Bruyswijc-hoe-hi-wert-minnende-des-Roed_
 gutenberg_issued: '2004-11-24'
 gutenberg_type: Text
 identifiers:
